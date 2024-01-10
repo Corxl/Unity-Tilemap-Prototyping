@@ -15,7 +15,3 @@ To get started with this project, follow these steps:
 - Tile map creation and editing.
 - Procedural generation of tile maps.
 - Tile-based movement and collision detection. 
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
